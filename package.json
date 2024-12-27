@@ -1,0 +1,19 @@
+{
+  "name": "kn---backend",
+  "version": "1.0.0",
+  "description": "Backend for the knowledge nest, a blogging website.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "nodemon index.js"
+  },
+  "keywords": [
+    "Blog"
+  ],
+  "author": "Mr. Raju Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
